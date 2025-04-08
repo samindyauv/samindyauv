@@ -6,9 +6,15 @@ Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">
 <i class="fab fa-pinterest"></i>
  
 <p align="center">
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/samindyauv?color=236ad3&style=for-the-badge&logo=github&label=Followers"/>
-<!-- <img src="https://img.shields.io/twitter/follow/samindyauv?logo=twitter&style=for-the-badge" alt="ThrippleK" /> -->
+  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/samindyauv?color=blue&style=for-the-badge&logo=github&label=Followers" width="160"/>
+  <img alt="profile views" title="Profile views" src="https://komarev.com/ghpvc/?username=samindyauv&color=blue&style=for-the-badge&label=Profile+Views" width="160"/>
 </p>
+
+
+
+
+
+
  
 <div align="center">
 I love the entire process of ensuring software quality. I enjoy the challenge of identifying bugs, testing features, and ensuring seamless user experiences. Exploring different test cases, uncovering hidden issues, and collaborating with developers to make products better is truly rewarding.
