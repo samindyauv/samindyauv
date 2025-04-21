@@ -31,8 +31,9 @@ QA Engineer | Passionate About Software Quality
   <img height="180em" src="https://streak-stats.demolab.com/?user=samindyauv&theme=radical&border_radius=10" />
 </p>
 
-
-
+<a href="https://github.com/samindyauv">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samindyauv&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph">
+</a>
  
 <br>
 <div align="center">
