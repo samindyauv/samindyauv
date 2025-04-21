@@ -34,6 +34,12 @@ QA Engineer | Passionate About Software Quality
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=samindyauv&theme=tokyonight" />
 </p>
+
+<a href="https://github.com/samindyauv">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samindyauv&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph">
+</a>
+
+
  
 <br>
 <div align="center">
