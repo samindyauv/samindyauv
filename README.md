@@ -20,24 +20,17 @@ QA Engineer | Passionate About Software Quality
 <img src="https://skillicons.dev/icons?i=github,selenium,gherkin,cypress,python,java,javascript,postman,vscode,git,idea,sentry,jenkins,npm,nodejs" alt="QA Tools" title="QA Tools"/>
 </div>
  
- 
+<h2 align="center">
+  GitHub Stats
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp;
+</h2>
 
- 
- 
-<h2 align="center">GitHub Stats     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp;</h2> 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=samindyauv&show_icons=true&locale=en&layout=compact&theme=tokyonight" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samindyauv&count_private=true&show_icons=true&theme=tokyonight" align = "center"/>
-</p> 
-<br>
- 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=samindyauv&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=samindyauv&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samindyauv&count_private=true&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=samindyauv&theme=radical&border_radius=10" />
 </p>
 
-<a href="https://github.com/samindyauv">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samindyauv&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph">
-</a>
 
 
  
