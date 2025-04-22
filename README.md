@@ -26,10 +26,11 @@ QA Engineer | Passionate About Software Quality
 </h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=samindyauv&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samindyauv&count_private=true&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=samindyauv&theme=radical&border_radius=10" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=samindyauv&show_icons=true&count_private=true&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samindyauv&layout=compact&theme=tokyonight" />
+  <img height="150em" src="https://streak-stats.demolab.com/?user=samindyauv&theme=tokyonight&border_radius=10" />
 </p>
+
 
 <a href="https://github.com/samindyauv">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=samindyauv&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph">
